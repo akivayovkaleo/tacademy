@@ -5,5 +5,6 @@ public class ex38 {
         Scanner sc = new Scanner(System.in);
 
 
+
     }
 }
