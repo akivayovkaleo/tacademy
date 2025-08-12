@@ -5,11 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/Logica/Logica.iml" filepath="$PROJECT_DIR$/Logica/Logica.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/T-academy.iml" filepath="$PROJECT_DIR$/.idea/T-academy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/aula01/aula01.iml" filepath="$PROJECT_DIR$/.idea/aula01/aula01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Logica/aula05/aula05.iml" filepath="$PROJECT_DIR$/Logica/aula05/aula05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logica/aula1/aula1.iml" filepath="$PROJECT_DIR$/Logica/aula1/aula1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logica/aula2/aula2.iml" filepath="$PROJECT_DIR$/Logica/aula2/aula2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logica/aula3/aula3.iml" filepath="$PROJECT_DIR$/Logica/aula3/aula3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Logica/aula4/aula4.iml" filepath="$PROJECT_DIR$/Logica/aula4/aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logica/aula5/aula5.iml" filepath="$PROJECT_DIR$/Logica/aula5/aula5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logica/aula6/aula6.iml" filepath="$PROJECT_DIR$/Logica/aula6/aula6.iml" />
     </modules>
   </component>
 </project>
